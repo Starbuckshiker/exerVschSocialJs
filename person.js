@@ -57,6 +57,6 @@ var person = {
 person.friends.Name = "Sam";
 person['sex'] = "";
 person.pets.push("rabbit", "cow", "chicken");
-alert(person.pets);
+alert("Hello Chris!!");
 console.log(person.pets);
 console.log(person.friends)
